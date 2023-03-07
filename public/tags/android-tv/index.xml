@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android TV on Musailhames</title>
+    <link>https://musailhames.github.io/tags/android-tv/</link>
+    <description>Recent content in Android TV on Musailhames</description>
+    <image>
+      <url>https://musailhames.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://musailhames.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://musailhames.github.io/tags/android-tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Simple Trick Will Help You Quickly Disable Safe Mode on Your Android TV!</title>
+      <link>https://musailhames.github.io/posts/this-simple-trick-will-help-you-quickly-disable-safe-mode-on-your-android-tv-/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://musailhames.github.io/posts/this-simple-trick-will-help-you-quickly-disable-safe-mode-on-your-android-tv-/</guid>
+      <description>Introduction Are you having trouble disabling safe mode on your Android TV? Don’t worry, we’ve got you covered! This simple trick will help you quickly disable safe mode and get you back to enjoying your favorite shows and movies in no time.
+Background Information Safe mode is a feature on Android TVs that allows you to troubleshoot any issues you may be having with your device. It is designed to prevent any changes to the system that could cause further problems.</description>
+    </item>
+    
+  </channel>
+</rss>
